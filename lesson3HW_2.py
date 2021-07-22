@@ -20,7 +20,7 @@ while i<5:
     elif g==v:
         print('Correct!!!')
         print('You guess',i,'times')
-        i=5
+        i=6
         
-if i==5:
+if i!=7:
     print('game over')
